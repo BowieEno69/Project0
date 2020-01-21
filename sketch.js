@@ -3,10 +3,12 @@ createCanvas(500,500);
 }
 
 function draw() {
+noStroke();
+fill(0,0,0)
 beginShape();
-  vertex(342, 372);
-  vertex(440, 33);
-  vertex(445, 373);
+  vertex(300, 355);
+  vertex(400, 28);
+  vertex(400, 355);
 endShape(CLOSE)
-fill
+
 }
