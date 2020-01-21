@@ -1,8 +1,11 @@
 function setup() {
-  // put setup code here
+createCanvas(600, 600);
 }
 
 function draw() {
-  // put drawing code here
-  ellipse(60,60,60,60);
+beginShape();
+  vertex(342, 372);
+  vertex(440, 33);
+  vertex(445, 373);
+endShape(CLOSE)
 }
