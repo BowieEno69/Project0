@@ -1,5 +1,5 @@
 function setup() {
-createCanvas(600, 600);
+createCanvas(500,500);
 }
 
 function draw() {
@@ -8,4 +8,5 @@ beginShape();
   vertex(440, 33);
   vertex(445, 373);
 endShape(CLOSE)
+fill
 }
