@@ -1,4 +1,4 @@
-# codebank
+# project0
 first navigate to project folder in terminal:
 ls
 cd
